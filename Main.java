@@ -1,5 +1,5 @@
 class Demo {
-    public static void main(String[] args) {
+    public static void ImAMain(String[] args) {
         System.out.println(60); 
     }
 }
